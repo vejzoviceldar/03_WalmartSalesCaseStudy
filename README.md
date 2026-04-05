@@ -73,7 +73,7 @@ These findings suggest that Walmart’s “**Everyday Low Price**” strategy he
 
 3. Trendline comparison between overall **System Average** and **Individual Store Averages**
 
-![image4](03_WalmartSales_Case_Study/06_Average_Monthly_Sales.png)
+
 
 ---
 
