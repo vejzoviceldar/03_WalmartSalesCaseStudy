@@ -1,6 +1,5 @@
 **<center><h1>Walmart Sales Case Study</h1></center>**
 
----
 
 ## **Executive Summary**:
 
