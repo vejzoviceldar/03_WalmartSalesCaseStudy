@@ -23,7 +23,7 @@ The analysis uses Kaggle’s Walmart weekly sales data from **2010–2012**, inc
 This interactive Power BI dashboard visualizes sales performance across **45 stores**, highlighting a **$6.7bn** total revenue with significant seasonal peaks during holiday weeks.  
 By analyzing correlations between sales and external factors like CPI, fuel prices, and temperature, the report identifies that these macroeconomic shifts have **low impact** on Walmart's core revenue.  
 
-![image-6.png](attachment:image-6.png)  
+![image1](03_WalmartSales_Case_Study/16_Final_Dashboard.png)  
 
 ### **Methodology**:
 1. Extracted & organized the dataset, reviewed dataset structure and variables
@@ -61,25 +61,25 @@ These findings suggest that Walmart’s “**Everyday Low Price**” strategy he
 
 1. Dashboard overview of the best performing store (**Store 20**)  
 
-![image-2.png](attachment:image-2.png)
+![image2](03_WalmartSales_Case_Study/17_Best_Performing_Store_Final_Dashboard.png)
 
 ---
 
 2. Sales trendline highlighting holiday seasonality impact (**Nov 25 – Dec 25**)
 
-![image-3.png](attachment:image-3.png)
+![image3](03_WalmartSales_Case_Study/08_HolidayWeeks_vs_NonHolidayWeeks.png)
 
 ---
 
 3. Trendline comparison between overall **System Average** and **Individual Store Averages**
 
-![image-4.png](attachment:image-4.png)
+![image4](03_WalmartSales_Case_Study/06_Average_Monthly_Sales.png)
 
 ---
 
 4. Store volatility comparison incl. **most and least** volatile stores  
 
-![image-5.png](attachment:image-5.png) 
+![image5](03_WalmartSales_Case_Study/14_Most_vs_Least_Volatile_Stores.png)
 
 **Key Insights**:  
 •	Sales increase sharply during the **Nov 25 – Dec 25** period    
