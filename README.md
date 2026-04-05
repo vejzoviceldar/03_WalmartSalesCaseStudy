@@ -1,5 +1,4 @@
-**<center><h1>Walmart Sales Case Study</h1></center>**
-
+# **Walmart Sales Case Study**
 
 ## **Executive Summary**:
 
