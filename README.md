@@ -9,7 +9,7 @@ This Case Study analyzes how various factors influence the weekly sales performa
 The analysis uses Kaggle’s Walmart weekly sales data from **2010–2012**, including store-level sales, holidays, CPI, fuel prices, unemployment rate, and temperature.
 
 **Key Insights**:  
-1.	**Seasonality Peak**: Data shows that the Q4 holiday window (**Nov 25 – Dec 25**) is the critical driver of annual revenue, generating **308M** in 2010 and **314M**  in 2011.
+1.	**Seasonality Peak**: Data shows that the Q4 holiday window (**Nov 25 – Dec 25**) is the critical driver of annual revenue, generating **$308M** in 2010 and **$314M**  in 2011.
 2.	**External Factors Resilience**: This analysis also shows that correlations between sales and external factors like CPI, Fuel Prices, and Temperature are consistently near zero. The most notable relationship is with the Unemployment Rate **(-0.11)**, which is still a very weak negative correlation. This suggest that Walmart’s “**Everyday Low Price**” strategy is relatively resilient to extern economic and environmental factors. 
 
 **Recommendations**:  
